@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chps/Bureau/POO/code/tppoo/TP3/GasField.h
+
+/home/chps/Bureau/POO/code/tppoo/TP3/Particles.h
+vector
+-
+iostream
+-
+fstream
+-
+algorithm
+-
+GasField.h
+/home/chps/Bureau/POO/code/tppoo/TP3/GasField.h
+
+/home/chps/Bureau/POO/code/tppoo/TP3/Simulator.h
+
+/home/chps/Bureau/POO/code/tppoo/TP3/SteadySimulator.h
+Simulator.h
+/home/chps/Bureau/POO/code/tppoo/TP3/Simulator.h
+Particles.h
+/home/chps/Bureau/POO/code/tppoo/TP3/Particles.h
+
+/home/chps/Bureau/POO/code/tppoo/TP3/UnsteadySimulator.h
+Simulator.h
+/home/chps/Bureau/POO/code/tppoo/TP3/Simulator.h
+Particles.h
+/home/chps/Bureau/POO/code/tppoo/TP3/Particles.h
+
+/home/chps/Bureau/POO/code/tppoo/TP3/main.cpp
+Simulator.h
+/home/chps/Bureau/POO/code/tppoo/TP3/Simulator.h
+SteadySimulator.h
+/home/chps/Bureau/POO/code/tppoo/TP3/SteadySimulator.h
+UnsteadySimulator.h
+/home/chps/Bureau/POO/code/tppoo/TP3/UnsteadySimulator.h
+memory
+-
+
